@@ -23,12 +23,15 @@ Yazılım geliştiriciyim. C#, Python ve web teknolojileri üzerinde projeler ü
 ### 📊 GitHub İstatistikleri
 
 <p align="center">
+  <!-- GitHub Streak Kartı (Çalışıyor) -->
   <img src="https://streak-stats.demolab.com?user=MhmtAtess&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MhmtAtess&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MhmtAtess&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+  <!-- Genel İstatistikler (Hata vermeyen alternatif servis) -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MhmtAtess&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <!-- En Çok Kullanılan Diller (Compact Tasarım) -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MhmtAtess&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 </p>
 
 ---
